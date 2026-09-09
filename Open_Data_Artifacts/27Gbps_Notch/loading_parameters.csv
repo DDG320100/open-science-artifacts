@@ -1,0 +1,10 @@
+parameter,value
+SER,0.0031622776601683794
+b_bar,4.0
+e_bar,2.0
+b_max_support,8.0
+b_max,8.0
+b_min,2.0
+margin_rate,1.0
+ApplyFEXT,0.0
+SNR_pessimistic,1.0

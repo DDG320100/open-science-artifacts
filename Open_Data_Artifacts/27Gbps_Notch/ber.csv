@@ -1,0 +1,4 @@
+condition,modulation,bits_per_symbol,sampling_rate_GSps,data_rate_Gbps,evm_dB,snr_linear,ser,ber
+27Gbps_Notch,QAM8,3,16,27,-11.7586,14.9920,5.6258e-03,1.8753e-03
+27Gbps_Notch,QAM16,4,16,27,-12.7980,19.0458,2.5486e-02,6.3716e-03
+27Gbps_Notch,QAM32,5,16,27,-14.9343,31.1480,4.1266e-02,8.2532e-03

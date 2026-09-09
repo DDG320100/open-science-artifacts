@@ -1,0 +1,4 @@
+condition,modulation,bits_per_symbol,sampling_rate_GSps,data_rate_Gbps,evm_dB,snr_linear,ser,ber
+51Gbps_Loopback,QAM16,4,20,51,-17.2924,53.6093,5.2939e-04,1.3235e-04
+51Gbps_Loopback,QAM32,5,20,51,-16.2593,42.2600,2.1573e-02,4.3146e-03
+51Gbps_Loopback,QAM64,6,20,51,-18.3823,68.9017,3.5042e-02,5.8404e-03

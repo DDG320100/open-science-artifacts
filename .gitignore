@@ -1,0 +1,21 @@
+# Archives and generated files
+*.zip
+*.tar
+*.tar.gz
+
+# Editor and operating-system metadata
+*.swp
+*.swo
+*~
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+
+# Simulation output
+work/
+*.wlf
+*.vcd
+*.fst
+*.log
+
