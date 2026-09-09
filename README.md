@@ -21,22 +21,22 @@ Open_Data_Artifacts/
 
 Measurement artifacts for the 27-Gb/s notched-channel case include:
 
-- aggregate and per-case BER data;
-- EVM and SNR-per-subchannel data;
-- bit- and power-loading parameters;
-- constellation data and histogram tables for the included QAM formats; and
-- PNG plots for quick inspection.
+- aggregate and per-case BER data
+- EVM and SNR-per-subchannel data
+- bit- and power-loading parameters
+- constellation data and histogram tables for the included QAM formats
+- PNG plots for quick inspection
 
 ### 51Gbps_Loopback
 
 Measurement artifacts for the 51-Gb/s loopback case include:
 
-- aggregate and per-case BER data;
-- EVM and SNR-per-subchannel data;
-- bit- and power-loading parameters;
-- constellation data and histogram tables for the included QAM formats;
-- timestamped DMT transmitter and receiver measurement data; and
-- PNG plots for quick inspection.
+- aggregate and per-case BER data
+- EVM and SNR-per-subchannel data
+- bit- and power-loading parameters
+- constellation data and histogram tables for the included QAM formats
+- timestamped DMT transmitter and receiver measurement data
+- PNG plots for quick inspection
 
 ## File formats
 
